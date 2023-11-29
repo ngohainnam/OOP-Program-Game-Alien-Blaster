@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Y5h+Q/PJWErYcmdQBX3Eb2D6/BuZZ5REqogDdddkOkctM0r9cAGrKYXCn2vGDcYUclzbwncb6m6whalhg6KlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ngoha\\OneDrive\\Desktop\\CustomProgram\\MyGame\\AlienBlaster\\AlienBlaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngoha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\ngoha\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\ngoha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\ngoha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
